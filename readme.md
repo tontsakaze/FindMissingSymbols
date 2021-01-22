@@ -10,15 +10,3 @@ RUN THE FILE FROM COMMAND LINE LIKE:
 python FindMS.py <filename>
 python FinsMS.py readme.txt
 </pre>
-
-
-EXAMPLE:
-<	This is an "example" text for program >
-{	[It searches (every		)]
-<	{},[],(),<>, "" and '' from the text file 	>
-{[(	There always has to be opening 
-	{ / [ / ( / <
-	and closing 
-	> / ) / ] / } for it				)]}
-	And there has to be even number of " / ' in the line or it will give "/'-warning
-}
